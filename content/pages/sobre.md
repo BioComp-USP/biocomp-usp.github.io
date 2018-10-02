@@ -16,7 +16,7 @@ O BioComp está localizado no Prédio de Engenharia de Eletricidade da Escola Po
 Av. Prof. Luciano Gualberto, 158, travessa 3  
 Sala C2-56 - São Paulo/SP - CEP: 05508-010
 
-Contato: [<i style="font-size: 1em;" class="fas fa-at"></i> biocomp@usp.br](mailto:biocomp@usp.br) | <i style="font-size: 1em;color:#d9411e;" class="fas fa-phone"></i><i style="font-size: 1em;color:#d9411e;"> +55 11 3091-5617</i>
+Contato: [<i style="font-size: 1em;" class="fas fa-at"></i> biocomp@usp.br](mailto:biocomp@usp.br) | <i style="font-size: 1em;color:#d9411e;" class="fas fa-phone"></i><i style="font-size: 1em;color:#d9411e;"> +55 11 3091-5104</i>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d914.3300953161179!2d-46.73109484038015!3d-23.556934267004802!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce561670b8c689%3A0x6101d4ffde476af4!2sEPUSP+-+Pr%C3%A9dio+da+Engenharia+El%C3%A9trica!5e0!3m2!1spt-BR!2sbr!4v1538488882917" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
