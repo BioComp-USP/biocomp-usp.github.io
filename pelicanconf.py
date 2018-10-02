@@ -8,7 +8,7 @@ SITEURL = ''
 THEME = 'theme'
 PATH = 'content'
 TIMEZONE = 'America/Sao_Paulo'
-DEFAULT_LANG = u'pt'
+DEFAULT_LANG = u'pt_BR'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -36,6 +36,15 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+LOCALE = ('pt_BR','pt_BR.UTF-8','en_US','en_US.UTF-8')
+DATE_FORMATS = {
+    'en_US': '%a, %d %b %Y',
+    'pt_BR': '%d/%m/%Y (%a)',
+}
+I18N_TEMPLATES_LANG = 'pt_BR'
+OG_LOCALE = 'pt_BR'
+
 
 STATIC_PATHS = [
     'images',
