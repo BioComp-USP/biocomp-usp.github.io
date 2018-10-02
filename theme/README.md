@@ -4,3 +4,4 @@ Customizations for BioComp:
 20181002:
     * Front image (credit at about)
     * CSS body, text-align: justify;
+    * base.html included fontawesome and academicons
