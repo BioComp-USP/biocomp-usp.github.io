@@ -10,6 +10,4 @@ Summary: Núcleo de Pesquisa em Biodiversidade e Computação
 save_as: index.html
 status: hidden
 
-# BioComp - Núcleo de Pesquisa em Biodiversidade e Computação
-
 O BioComp tem por missão aumentar o conhecimento sobre a biodiversidade neotropical, as formas de preservá-la e usá-la de modo sustentável, a partir de uma visão e atuação transdisciplinar baseada na forte interação entre a Biologia, a Computação e a Engenharia, e com grande aporte de outras ciências como a Agronomia, a Economia e o Direito. Essa convergência de áreas complementares visa ao desenvolvimento de pesquisas abrangentes, com sólida fundamentação e que oferecerão conhecimento, soluções e propostas para um amplo leque de demandas, desde políticas públicas, tomada de decisão até a educação e disseminação do conhecimento. Toda essa atividade será permeada pela formação de recursos humanos com uma visão aberta e transdisciplinar.
