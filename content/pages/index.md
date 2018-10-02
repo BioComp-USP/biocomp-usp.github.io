@@ -1,4 +1,4 @@
-Title: Núcleo de Pesquisa em Biodiversidade e Computação
+Title: BioComp: Núcleo de Pesquisa em Biodiversidade e Computação
 Date: 2018-08-30 18:25
 Modified: 2018-08-31 09:17
 Category: informações
